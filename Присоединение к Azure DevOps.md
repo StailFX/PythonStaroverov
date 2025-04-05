@@ -6,7 +6,7 @@
 >>2.Прокрутите страницу немного вниз и нажмите «Создать бесплатную учетную запись».  
 >>3.Заполните все обязательные поля.  
 >>4.В пункте «Страна» выберите ОАЭ (Объединенные Арабские Эмираты).<br/>  
->2.Переходим по ссылке: [Azure DevOps](https://azure.microsoft.com/ru-ru/products/devops/server/)    
+<h0>2.Переходим по ссылке: [Azure DevOps](https://azure.microsoft.com/ru-ru/products/devops/server/)<h0/>
 ![Azure DevOps Server](https://i.imgur.com/ym1N47C.png)
 >>1. Нажимаем «Начать бесплатно».  
 >>2. Регистрируемся по логину Outlook и паролю соответственно, после попадаем на страницу создания аккаунта в Azure DevOps.  
